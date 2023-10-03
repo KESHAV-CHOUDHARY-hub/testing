@@ -1,0 +1,1 @@
+SELECT email,phone FROM public."users";
